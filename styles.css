@@ -1,0 +1,77 @@
+body{
+    background-color: #333 ;
+    margin: 0;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color:#006699 ;
+    padding: 3rem;
+    border-radius: 1rem;
+    border: 2px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 1rem;
+    column-gap: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    margin: 0;
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+.num-caracter{
+    display: flex;
+    align-items: center;
+}
+
+.Num-input{
+    width: 2rem;
+}
+
+.Display-Pass{
+    background-color: #fff;
+    color: #000;
+    padding: 1rem;
+    border: 1px solid #333;
+    height: 2rem;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-all;
+    border-radius: .5rem;
+}
+
+.btn{
+    grid-column: span 2;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: .5rem 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: .75rem;
+}
+
+.btn:hover{
+    background-color: #ffffff33;
+}
