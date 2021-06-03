@@ -5,7 +5,10 @@ Perfeito para quem está a aprender a codificar. <br>
 <hr>
 <img src="https://github.com/Ricardo-Robot/Gerador_Password/blob/master/github/gerarpass.gif">
 <br>
-Segue o link na web: [Gerador PassWord](https://gerador-password.vercel.app/)
+
+-----
+Segue o link na web: [Gerador PassWord](https://gerador-password.vercel.app)
+
 <hr>
 ✔ Esteja à vontade para clonar, comentar e dar sugestões de melhorias😉. <br>
 
